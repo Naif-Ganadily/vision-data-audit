@@ -1,14 +1,14 @@
 [project]
 name = "vision-data-audit"
-version = "0.1.0"
+version = "0.1.2"
 description = "Quick audit of an image folder: formats, sizes, mean/std, duplicates."
 readme = "README.md"
 authors = [
     { name = "Naif Ganadily", email = "ganadilynaif@gmail.com" }
 ]
-requires-python = ">=3.14"
+requires-python = ">=3.10"
 dependencies = [
-    "numpy>=2.4.0",
+    "numpy>=1.26,<2.4",
     "pillow>=12.1.0",
 ]
 
