@@ -82,3 +82,6 @@ uv run vision-data-audit --help
 uv run pytest
 uv build
 ```
+
+## License
+Apache-2.0
