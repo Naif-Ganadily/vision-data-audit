@@ -1,7 +1,7 @@
 [project]
 name = "vision-data-audit"
 version = "0.1.0"
-description = "Add your description here"
+description = "Quick audit of an image folder: formats, sizes, mean/std, duplicates."
 readme = "README.md"
 authors = [
     { name = "Naif Ganadily", email = "ganadilynaif@gmail.com" }
